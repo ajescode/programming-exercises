@@ -1,5 +1,5 @@
-# programming-exercises
-Short programming exercises I completed and I find them pleasent.
+# Programming exercises
+Short programming exercises I find interesting to resolve.
 
 
 ## 1. Resources consuming merging
