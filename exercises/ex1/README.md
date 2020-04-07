@@ -1,4 +1,4 @@
-#resource consuming merge
+# Resource consuming merge
 
 Merging a list consisting of K elements with a list of L elements takes (K+L) resources. The resources required to merge more than two lists into one final list depends on the order in which the merges are performed. 
 
@@ -21,12 +21,12 @@ The first schema is the best.
 
 When the number of lists to merge is fewer than two, no merges are performed. 
 
-##Task
+## Task
 
 Write a function: function solution($A); that, given an array A of length N describing the lengths of N lists, returns the smallest resource quantity required to merge these lists. 
 
 
-##Example
+## Example
 For example, given array A:
  A[0] = 100 A[1] = 250 A[2] = 1000
 
