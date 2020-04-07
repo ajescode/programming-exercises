@@ -2,4 +2,4 @@
 Short programming exercises I find interesting to resolve.
 
 
-## 1. Resources consuming merging
+## 1. Resource consuming merge
