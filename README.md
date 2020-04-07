@@ -1,5 +1,5 @@
 # programming-exercises
-Some of the programming short pleasant tasks I completed.
+Short programming exercises I completed and I find them pleasent.
 
 
 ## 1. Resources consuming merging
