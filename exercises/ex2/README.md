@@ -4,7 +4,7 @@ Greatest Common Divisor is the largest divisor of two or more integers, which ar
 
 ## Task
 
-Write a function: function generalizedGCD($A); that, given an array of integers returns GCD for these numbers.
+Write a function: function generalizedGCD; that, given an array of integers returns GCD for these numbers.
 
 
 ## Example

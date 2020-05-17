@@ -2,5 +2,6 @@
 Short programming exercises I find interesting to resolve.
 
 
-## 1. Resource consuming merge
-https://github.com/ajescode/programming-exercises/tree/master/exercises/ex1
+## 1. [Resource consuming merge](https://github.com/ajescode/programming-exercises/tree/master/exercises/ex1)
+
+## 2. [Greatest Common Divisor](https://github.com/ajescode/programming-exercises/tree/master/exercises/ex2)
