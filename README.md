@@ -8,3 +8,7 @@ Short programming exercises I find interesting to resolve.
 
 
 ## 3. [Google Foobar](https://github.com/ajescode/programming-exercises/tree/master/google-foobar)
+
+### Level 1.
+
+### Level 2.
