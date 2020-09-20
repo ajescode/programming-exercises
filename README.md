@@ -27,3 +27,6 @@ Short programming exercises I find interesting to resolve.
 
 ### Level 5.
 - [Dodge the lasers!](https://github.com/ajescode/programming-exercises/tree/master/google-foobar/dodge-the-lasers)
+
+### Level X.
+- [Disorderly Escape](https://github.com/ajescode/programming-exercises/tree/master/google-foobar/disorderly-escape)
